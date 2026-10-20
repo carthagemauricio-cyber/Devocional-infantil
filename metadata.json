@@ -1,0 +1,6 @@
+{
+  "name": "Pequenos Corações, Grande Fé",
+  "description": "Aplicativo devocional cristão infantil com histórias bíblicas diárias, orações, plano de 30 dias e actividades em família.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
